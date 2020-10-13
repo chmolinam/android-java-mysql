@@ -1,0 +1,9 @@
+  agregar a Android Manifest.xml
+  
+  <uses-permission android:name="android.permission.INTERNET" />
+  
+  agregar a buildgradle app
+  dependencias
+  implementation 'com.android.volley:volley:1.1.1'
+
+y en acad xml agregar para conectar
